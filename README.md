@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Abuzar Mehdi.
+- 🎓I'm currently pursuing Bachelor of Computer Applications at Invertis University.
 - 👀 I’m interested in Web Development.
 - 👨‍🎓 I’m currently building real-world projects.
 - 📫 How to reach me mehdiabuzar786@gmail.com.
