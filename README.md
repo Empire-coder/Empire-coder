@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 👨‍🎓 I’m currently building real-world projects.
 - 📫 How to reach me mehdiabuzar786@gmail.com.
+- ❓ Ask me about anything related to Core HTML, CSS, Bootstrap, Java Script, PHP, Python and tech.
 - ⚡ Fun fact: I code best while listening to lo-fi beats.
 
 <!---
